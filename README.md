@@ -1,5 +1,4 @@
 # 03-kuber
-# 03-kuber
 # Задача 1
 При запуске деплоя возникает ошибка заняты портов для исправления ошибки добавлена часть:
 ![Screenshot 2025-01-22 132834](https://github.com/user-attachments/assets/0d0a55b9-b76b-4cf9-aaa3-6642e6ecbb9d)
